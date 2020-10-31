@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52bc49f2-2ecc-40c1-adfc-3f5157ef98f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/govcl_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSVersion/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/WindowsMessages/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/WindowsProcess/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/WindowsProcess/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/WindowsProcess/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/WindowsTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/GdipForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/GdipForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/GdipFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/btn_scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest/testbk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/GdipForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/GdipForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/GdipFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/gdiplustest2/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/PBEDIT.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/PPLive.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/PhotoshopCS3.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/QQ.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/QQDownload.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/QiyiClient.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/TTPlayer.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/Thunder.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/UDown.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/WINWORD.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/XDict.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/icons/wlmail.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewadvcustomdraw/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/FormListViewDraw.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/FormListViewDraw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/codeBuildListView.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/formResBuildListView.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/listviewCommon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewcustomdraw/testtraindata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/UI/listviewitemedit.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/UI/listviewitemedit.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/UI/listviewitemedit.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/UI/umain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/UI/umain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/listviewitemedit/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/HTMLForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/HTMLForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/HTMLFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/JsForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/JsForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/JsFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/miniblinkWebview/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/alib/lib.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/build_x64.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/build_x86.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/define.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/export.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/npp_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/nppPlugins/scintilla.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/registerHotKey/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/registerHotKey/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/registerHotKey/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/registerHotKey/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/registry/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/shortcut/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/app.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/app.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/applogo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/build-i386.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/build-x86_64.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/next.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/pause.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/play.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/Res/prev.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/defaultRes_windows_386.syso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/defaultRes_windows_amd64.syso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/taskbar/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/windowsspy/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/windowsspy/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/windowsspy/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/windowsspy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/winole/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/winole/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/wkeWebBrowser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/wkeWebBrowser/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/wkeWebBrowser/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Windows/xunleidownloader/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/Form2Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/form2.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/form2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicResForm/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checklistbox/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checklistbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checklistbox/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checklistbox/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipbrd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/Form11.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/Form11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/Form11Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/Project12.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/Project12.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/Project12.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/Unit11.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/Unit11.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/pascal/gen.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboboxEx/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customLibTest/alib/libname.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customLibTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draganddrop/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draganddrop/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/chats.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawchart/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/applogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/gift.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawfilterusegift/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawrose/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawrose/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawrose/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawrose/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawrose/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/gg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/gopher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawusegg/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropfiles/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropfiles/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropfiles/p_posix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropfiles/p_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventpublic/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventpublic/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileshelltree/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileshelltree/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileshelltree/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileshelltree/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileshelltree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/form2.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/form2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/form2Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formEvents/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formscale/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formscale/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formscale/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formscale/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formscale/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/govcl.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/imgs/0.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/imgs/2.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/imgs/2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/govcl/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/drawgrid/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/drawgrid/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/drawgrid/playControl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/stringgrid/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/stringgrid/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/stringgrid2/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grids/stringgrid2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_world/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/btn_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/btn_max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/btn_min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/btn_scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/btn_skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagebutton/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/hook_posix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/hook_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/psdReader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/psdReader_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/reg_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageviewer/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inifile/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inifile/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intfTest/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intfTest/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intfTest/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intfTest/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intfTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonTogo/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonViewer/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labeledit/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labeledit/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw2/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw2/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw2/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw2/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listboxcustomdraw2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listview/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listview/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listview/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listviewvirtualdata/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listviewvirtualdata/checkbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listviewvirtualdata/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/LoginForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/LoginForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/LoginFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/ui/project1.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/ui/project1.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/ui/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macOS/nswindowTest/ui/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/html.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdownEd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memstream/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memstream/curThreadId_posix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memstream/curThreadId_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memstream/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messageTest/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messageTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/ie_posix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/ie_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniwebview/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/playControl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3Player/trackbar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbox/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbox/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Langs/en-US.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Langs/lang.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/Langs/zh-CN.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilanguage/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notepad/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagecontrolwizard/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printer/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/FrameRedis.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/FrameRedis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/FrameRedisImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/NewConnection.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/NewConnection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/NewConnectionImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/redisviewer.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/redisviewer.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/redisviewer.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/uframeredis.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/uframeredis.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/umain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/umain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/unewconnection.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redisViewer/ui/unewconnection.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gen.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/About.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/AboutImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/gocode/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/project1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/project1.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/project1.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/project1.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/project1.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/unit2.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Lazarus/unit2.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit2.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit2.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit3.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/Unit3.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gen.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/About.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/AboutImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/Frame1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/Frame1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/Frame2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/Frame2Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/gocode/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/project1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/project1.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/project1.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/unit4.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res2goTest/Test/unit4.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/richedit/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/richedit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/richedit/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rproxy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleIM/IMClient/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleIM/IMClient/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleIM/IMServer/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleIM/IMServer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleIM/packet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/procalc.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/procalc.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/procalc.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/procalc.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/umain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplecalc/umain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/MainForm.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplelibvlc/test.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statusbar/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statusbar/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdcontrols/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdcontrols/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdcontrols/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdcontrols/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdcontrols/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sysdialog/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sysdialog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sysdialog/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sysdialog/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syslocale/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskdialog/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskdialog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskdialog/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskdialog/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadid/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trayicon/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trayicon/2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trayicon/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trayicon/mainIconRes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeview/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeview/brown.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeview/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treeview/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valuelisteditor/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valuelisteditor/Form1.gfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valuelisteditor/Form1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valuelisteditor/Form1Impl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valuelisteditor/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/AppSettings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/AppSettingsImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/MainForm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/MainFormImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewAliyunAudioEngine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewAliyunAudioEngineImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewBaiduTranslateEngine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewBaiduTranslateEngineImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewTencentTranslateEngine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/NewTencentTranslateEngineImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/OSSSaveSettings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/OSSSaveSettingsImpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/fns.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/umain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/umain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewaliyunaudioengine.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewaliyunaudioengine.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewbaidutranslateengine.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewbaidutranslateengine.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewtencenttranslateengine.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/unewtencenttranslateengine.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/uosssavesettings.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/uosssavesettings.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/uuappsettings.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/uuappsettings.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/videosrtgui.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/videosrtgui.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/videosrtgui.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/lzUI/videosrtgui.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosrtgui/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xbuttonTest/0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xbuttonTest/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xbuttonTest/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/opt/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ze4zphn6" />
+  </component>
+  <component name="ProjectId" id="1jbM5mqRH82EJug01f0BSYQJD3A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redisViewer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/redisViewer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello_world" />
+      <recent name="$PROJECT_DIR$/govcl" />
+      <recent name="$PROJECT_DIR$/simplecalc" />
+      <recent name="$PROJECT_DIR$/notepad" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1107" y="473" width="402" height="327" key="#Go_Modules" timestamp="1604068482967">
+      <screen x="67" y="27" width="2491" height="1221" />
+    </state>
+    <state x="1107" y="473" width="402" height="327" key="#Go_Modules/67.27.2491.1221@67.27.2491.1221" timestamp="1604068482967" />
+    <state x="970" y="429" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604068854644">
+      <screen x="67" y="27" width="2491" height="1221" />
+    </state>
+    <state x="970" y="429" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser/67.27.2491.1221@67.27.2491.1221" timestamp="1604068854644" />
+    <state x="993" y="119" width="638" height="1035" key="find.popup" timestamp="1604068443765">
+      <screen x="67" y="27" width="2491" height="1221" />
+    </state>
+    <state x="993" y="119" width="638" height="1035" key="find.popup/67.27.2491.1221@67.27.2491.1221" timestamp="1604068443765" />
+  </component>
+</project>
